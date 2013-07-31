@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger>
+
+    <dataSet config="main" >
+        <source path="/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/assets" >
+            <file
+                name="fonts/lanenar.ttf"
+                path="/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/assets/fonts/lanenar.ttf" />
+        </source>
+    </dataSet>
+    <dataSet config="debug" >
+        <source path="/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/debug/assets" />
+    </dataSet>
+
+</merger>

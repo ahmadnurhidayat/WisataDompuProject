@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- From: file:/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/res/values/colors.xml -->
+    <color name="cokelat">#FF1B1717</color>
+    <color name="pink">#FFD62D26</color>
+    <color name="white">#FFFFFFFF</color>
+    <!-- From: file:/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/res/values/dimens.xml -->
+    <dimen name="marginsmall">10dp</dimen>
+    <dimen name="textbig">18dp</dimen>
+    <dimen name="textnormal">14dp</dimen>
+    <!-- From: file:/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/res/values/strings.xml -->
+    <string name="action_settings">Settings</string>
+    <string name="app_name">Wisata Dompu</string>
+    <string name="button">Go To Main</string>
+    <string name="hello_world">By Syahrul</string>
+    <!-- From: file:/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/res/values/styles.xml -->
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+
+</resources>

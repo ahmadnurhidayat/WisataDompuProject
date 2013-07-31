@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- Drop Shadow Stack -->
+    <item>
+        <shape>
+            <padding android:bottom="2dp"/>
+            <corners android:bottomRightRadius="2dp" android:bottomLeftRadius="2dp"/>
+            <solid android:color="#FFCCCCCC" />
+        </shape>
+    </item>
+    <!-- Background -->
+    <item>
+        <shape>
+            <solid android:color="@color/pink" />
+        </shape>
+    </item>
+</layer-list><!-- From: file:/Users/adslack/AndroidStudioProjects/WisataDompuProject/WisataDompu/src/main/res/drawable/shadow.xml -->
